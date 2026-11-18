@@ -19,6 +19,7 @@ Source code is kept private. Each product is installed and set up by us; there i
 | [LikeServic Medic](https://neo.likenic.com/en/product/likeservic-medic-en/) | Online booking, doctor directory, patient portal, reminders | Demo |
 | [LikeServic Medica](https://neo.likenic.com/en/product/likeservic-medica-en/) | Aesthetic clinics: treatment finder, programmes, appointment requests | Demo |
 | [Sense Med](https://neo.likenic.com/en/product/sense-med-en/) | Surgical practices: specialties, patient journey, booking | Demo |
+| [LikeServic Salon](https://neo.likenic.com/en/product/likeservic-salon-en/) | Hair salons & barbers: online booking, live walk-in queue, waiting list, agenda | In development |
 | [NEO Market](https://shop.likenic.com/) | Online Persian grocery, B2B orders for restaurants, freight Iran → Switzerland | In progress |
 
 ## Feature tours
@@ -33,6 +34,7 @@ Every feature of each product, one screenshot at a time — in English, French a
 | LikeServic Medic | [EN](portfolio/medical-practice.md) · [FR](portfolio/medical-practice.fr.md) · [FA](portfolio/medical-practice.fa.md) |
 | LikeServic Medica | [EN](portfolio/aesthetic-clinic.md) · [FR](portfolio/aesthetic-clinic.fr.md) · [FA](portfolio/aesthetic-clinic.fa.md) |
 | Sense Med | [EN](portfolio/surgery-practice.md) · [FR](portfolio/surgery-practice.fr.md) · [FA](portfolio/surgery-practice.fa.md) |
+| LikeServic Salon | [EN](portfolio/barbershop.md) · [FR](portfolio/barbershop.fr.md) · [FA](portfolio/barbershop.fa.md) |
 
 ## Work
 
@@ -55,7 +57,7 @@ Restaurant Karun and GoldGym are live client sites; the others are demos with fi
 
 ---
 
-**En français** — Ingénieur informatique et développeur web dans le canton de Vaud. Je crée des thèmes, des extensions et des plateformes WordPress pour cabinets médicaux, pharmacies, restaurants et salles de sport. Les produits sont présentés sur [NeoLivis](https://neo.likenic.com/), et chaque fonctionnalité est montrée en images dans le [portfolio](portfolio/pharmacy.fr.md) ; le code reste privé et chaque installation est faite sur mesure.
+**En français** — Ingénieur informatique et développeur web dans le canton de Vaud. Je crée des thèmes, des extensions et des plateformes WordPress pour cabinets médicaux, pharmacies, restaurants, salles de sport et salons de coiffure. Les produits sont présentés sur [NeoLivis](https://neo.likenic.com/), et chaque fonctionnalité est montrée en images dans le [portfolio](portfolio/pharmacy.fr.md) ; le code reste privé et chaque installation est faite sur mesure.
 
 **Auf Deutsch** — Informatik-Ingenieur und Webentwickler im Kanton Waadt. Ich entwickle WordPress-Themes, -Plugins und -Plattformen für Arztpraxen, Apotheken, Restaurants und Fitnessstudios. Die Produkte finden Sie auf [NeoLivis](https://neo.likenic.com/de/); der Code bleibt privat, jede Installation wird individuell eingerichtet.
 
