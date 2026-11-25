@@ -20,6 +20,7 @@ Source code is kept private. Each product is installed and set up by us; there i
 | [LikeServic Medica](https://neo.likenic.com/en/product/likeservic-medica-en/) | Aesthetic clinics: treatment finder, programmes, appointment requests | Demo |
 | [Sense Med](https://neo.likenic.com/en/product/sense-med-en/) | Surgical practices: specialties, patient journey, booking | Demo |
 | [LikeServic Salon](https://neo.likenic.com/en/product/likeservic-salon-en/) | Hair salons & barbers: online booking, live walk-in queue, waiting list, agenda | In development |
+| [Neo Mobile](https://mob.likenic.com/) | Phone shops: accessories by phone model, checked used phones, repair booking, trade-in; 5 languages, 4 looks | Demo (first client: Goldphone, Lausanne) |
 | [NEO Market](https://shop.likenic.com/) | Online Persian grocery, B2B orders for restaurants, freight Iran → Switzerland | In progress |
 
 ## Feature tours
@@ -35,6 +36,7 @@ Every feature of each product, one screenshot at a time — in English, French a
 | LikeServic Medica | [EN](portfolio/aesthetic-clinic.md) · [FR](portfolio/aesthetic-clinic.fr.md) · [FA](portfolio/aesthetic-clinic.fa.md) |
 | Sense Med | [EN](portfolio/surgery-practice.md) · [FR](portfolio/surgery-practice.fr.md) · [FA](portfolio/surgery-practice.fa.md) |
 | LikeServic Salon | [EN](portfolio/barbershop.md) · [FR](portfolio/barbershop.fr.md) · [FA](portfolio/barbershop.fa.md) |
+| Neo Mobile (phone shop) | [EN](portfolio/mobile-store.md) · [FR](portfolio/mobile-store.fr.md) · [FA](portfolio/mobile-store.fa.md) |
 
 ## Work
 
@@ -44,6 +46,7 @@ Every feature of each product, one screenshot at a time — in English, French a
 <a href="https://clinic.likenic.com/"><img src="images/clinic-desktop.webp" width="260" alt="Clinique Horizon (demo)"></a>
 <a href="https://beuti.likenic.com/"><img src="images/beauty-desktop.webp" width="260" alt="Clinique Aurore (demo)"></a>
 <a href="https://med.likenic.com/"><img src="images/med-desktop.webp" width="260" alt="Chirurgie Lumen (demo)"></a>
+<a href="https://mob.likenic.com/"><img src="images/mob-desktop.webp" width="260" alt="Neo Mobile phone shop (demo)"></a>
 <a href="https://shop.likenic.com/"><img src="images/store-desktop.webp" width="260" alt="NEO Market demo"></a>
 <a href="https://neo.likenic.com/en/"><img src="images/neolivis-desktop.webp" width="260" alt="NeoLivis"></a>
 
@@ -57,12 +60,12 @@ Restaurant Karun and GoldGym are live client sites; the others are demos with fi
 
 ---
 
-**En français** — Ingénieur informatique et développeur web dans le canton de Vaud. Je crée des thèmes, des extensions et des plateformes WordPress pour cabinets médicaux, pharmacies, restaurants, salles de sport et salons de coiffure. Les produits sont présentés sur [NeoLivis](https://neo.likenic.com/), et chaque fonctionnalité est montrée en images dans le [portfolio](portfolio/pharmacy.fr.md) ; le code reste privé et chaque installation est faite sur mesure.
+**En français** — Ingénieur informatique et développeur web dans le canton de Vaud. Je crée des thèmes, des extensions et des plateformes WordPress pour cabinets médicaux, pharmacies, restaurants, salles de sport, salons de coiffure et magasins de téléphonie. Les produits sont présentés sur [NeoLivis](https://neo.likenic.com/), et chaque fonctionnalité est montrée en images dans le [portfolio](portfolio/pharmacy.fr.md) ; le code reste privé et chaque installation est faite sur mesure.
 
 **Auf Deutsch** — Informatik-Ingenieur und Webentwickler im Kanton Waadt. Ich entwickle WordPress-Themes, -Plugins und -Plattformen für Arztpraxen, Apotheken, Restaurants und Fitnessstudios. Die Produkte finden Sie auf [NeoLivis](https://neo.likenic.com/de/); der Code bleibt privat, jede Installation wird individuell eingerichtet.
 
 <div dir="rtl">
 
-**به فارسی** — مهندس فناوری اطلاعات و توسعه‌دهندهٔ وب در کانتون وو سوئیس. برای مطب‌ها، داروخانه‌ها، رستوران‌ها و باشگاه‌های ورزشی قالب، افزونه و پلتفرم وردپرسی می‌سازم: چندزبانه، سریع و قابل ویرایش در المنتور. محصولات در [NeoLivis](https://neo.likenic.com/fa/) معرفی شده‌اند و همهٔ امکانات هر محصول با تصویر در [بخش نمونه‌کارها](portfolio/restaurant.fa.md) آمده است؛ کد خصوصی است و هر نصب برای همان مشتری انجام می‌شود.
+**به فارسی** — مهندس فناوری اطلاعات و توسعه‌دهندهٔ وب در کانتون وو سوئیس. برای مطب‌ها، داروخانه‌ها، رستوران‌ها، باشگاه‌های ورزشی و فروشگاه‌های موبایل قالب، افزونه و پلتفرم وردپرسی می‌سازم: چندزبانه، سریع و قابل ویرایش در المنتور. محصولات در [NeoLivis](https://neo.likenic.com/fa/) معرفی شده‌اند و همهٔ امکانات هر محصول با تصویر در [بخش نمونه‌کارها](portfolio/restaurant.fa.md) آمده است؛ کد خصوصی است و هر نصب برای همان مشتری انجام می‌شود.
 
 </div>
