@@ -2,8 +2,6 @@
 One line per reel: file | account to publish | collaborator | label. Move a line to "Published" with date and media id after publishing.
 
 ## Queue
-- reel-neoestate.mp4 | like.servic | neolivis.ch | demo
-- reel-karun.mp4 | neolivis.ch | like.servic | real project
 - reel-pharm.mp4 | like.servic | neolivis.ch | demo
 - reel-goldgym.mp4 | neolivis.ch | like.servic | real project
 - reel-clinic.mp4 | like.servic | neolivis.ch | demo
@@ -14,3 +12,5 @@ One line per reel: file | account to publish | collaborator | label. Move a line
 - reel-neolivis.mp4 | neolivis.ch | like.servic | own site
 
 ## Published
+- 2026-11-28 reel-neoestate.mp4 | like.servic | tag neolivis.ch (video posts cannot be Collab via API) | media 17985394704067505
+- 2026-11-28 reel-karun.mp4 | neolivis.ch | tag like.servic | media 18126049490516398
