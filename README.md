@@ -1,66 +1,70 @@
-# Hi, I’m Morteza Delavar 👋
+# Bonjour, je suis Morteza Delavar 👋
 
-IT engineer and web developer based in the canton of Vaud, Switzerland.
-I design and build **WordPress themes, plugins and web platforms** for clinics, pharmacies, restaurants and gyms — multilingual, fast, and editable by the client in Elementor.
+Ingénieur informatique et développeur web dans le canton de Vaud, en Suisse.
+Je conçois et développe des **thèmes, extensions et plateformes WordPress** pour l’immobilier, les cabinets médicaux, les pharmacies, les restaurants, les salles de sport, les salons et les magasins — multilingues, rapides, et modifiables par le client dans Elementor.
 
-**NeoLivis** · products and web projects — [neo.likenic.com](https://neo.likenic.com/en/)
-**LikeServic** · IT and digital services in Europe — [likeservic.com](https://likeservic.com/)
-**LikeNic** · hosting, domains and servers — [likenic.com](https://likenic.com/en/)
+**NeoLivis** · produits et projets web — [neo.likenic.com](https://neo.likenic.com/)
+**LikeServic** · services informatiques et numériques en Europe — [likeservic.com](https://likeservic.com/)
+**LikeNic** · hébergement, domaines et serveurs — [likenic.com](https://likenic.com/)
 
-## Products
+## Produits
 
-Source code is kept private. Each product is installed and set up by us; there is no public download.
+Le code source reste privé. Chaque produit est installé et configuré par nos soins ; pas de téléchargement public.
 
-| Product | What it does | Status |
+| Produit | Ce qu’il fait | Statut |
 |---|---|---|
-| [LikeServic Restaurant](https://neo.likenic.com/en/product/likeservic-restaurant-en/) | QR table ordering, takeaway, bookings, kitchen tickets, waiting screen | Live at Restaurant Karun |
-| [LikeServic Gym Network](https://neo.likenic.com/en/product/likeservic-gym-network-en/) | One brand site + one site per gym: memberships, classes, members | Live at GoldGym |
-| [LikeServic Pharmacy](https://neo.likenic.com/en/product/likeservic-pharmacy-en/) | Medicine search with confirmed stock, prescription upload, delivery | Demo |
-| [LikeServic Medic](https://neo.likenic.com/en/product/likeservic-medic-en/) | Online booking, doctor directory, patient portal, reminders | Demo |
-| [LikeServic Medica](https://neo.likenic.com/en/product/likeservic-medica-en/) | Aesthetic clinics: treatment finder, programmes, appointment requests | Demo |
-| [Sense Med](https://neo.likenic.com/en/product/sense-med-en/) | Surgical practices: specialties, patient journey, booking | Demo |
-| [LikeServic Salon](https://neo.likenic.com/en/product/likeservic-salon-en/) | Hair salons & barbers: online booking, live walk-in queue, waiting list, agenda | In development |
-| [Neo Mobile](https://mob.likenic.com/) | Phone shops: accessories by phone model, checked used phones, repair booking, trade-in; 5 languages, 4 looks | Demo (first client: Goldphone, Lausanne) |
-| [NEO Market](https://shop.likenic.com/) | Online Persian grocery, B2B orders for restaurants, freight Iran → Switzerland | In progress |
+| [Neo Estate](https://real.likenic.com/) | Immobilier : location, achat, séjours courts, travaux sur devis ; annonces vérifiées, agences multi-succursales, 4 langues | Démo (nouveau) |
+| [LikeServic Restaurant](https://neo.likenic.com/product/likeservic-restaurant/) | Commande à table par QR, à l’emporter, réservations, bons de cuisine, écran d’attente | En ligne chez Restaurant Karun |
+| [LikeServic Gym Network](https://neo.likenic.com/product/likeservic-gym-network/) | Un site de marque + un site par salle : abonnements, cours, membres | En ligne chez GoldGym |
+| [LikeServic Pharmacy](https://neo.likenic.com/product/likeservic-pharmacy/) | Recherche de médicaments avec stock confirmé, envoi d’ordonnance, livraison | Démo |
+| [LikeServic Medic](https://neo.likenic.com/product/likeservic-medic/) | Rendez-vous en ligne, annuaire des médecins, espace patient, rappels | Démo |
+| [LikeServic Medica](https://neo.likenic.com/product/likeservic-medica/) | Cliniques esthétiques : choix du soin, programmes, demandes de rendez-vous | Démo |
+| [Sense Med](https://neo.likenic.com/product/sense-med/) | Cabinets de chirurgie : spécialités, parcours patient, rendez-vous | Démo |
+| [LikeServic Salon](https://neo.likenic.com/product/likeservic-salon/) | Coiffeurs et barbiers : réservation, file d’attente en direct, liste d’attente, agenda | En développement |
+| [Neo Mobile](https://mob.likenic.com/) | Boutiques de téléphonie : accessoires par modèle, occasions contrôlées, réparations, reprise ; 5 langues, 4 styles | Démo (premier client : Goldphone, Lausanne) |
+| [NEO Market](https://shop.likenic.com/) | Épicerie persane en ligne, commandes B2B pour restaurants, fret Iran → Suisse | En cours |
 
-## Feature tours
+## Visites guidées
 
-Every feature of each product, one screenshot at a time — in English, French and Persian:
+Chaque fonctionnalité, une capture à la fois — en français, anglais et persan :
 
-| Product | Tour |
+| Produit | Visite |
 |---|---|
-| LikeServic Restaurant (Restaurant Karun) | [EN](portfolio/restaurant.md) · [FR](portfolio/restaurant.fr.md) · [FA](portfolio/restaurant.fa.md) |
-| LikeServic Gym Network (GoldGym) | [EN](portfolio/gym-network.md) · [FR](portfolio/gym-network.fr.md) · [FA](portfolio/gym-network.fa.md) |
-| LikeServic Pharmacy | [EN](portfolio/pharmacy.md) · [FR](portfolio/pharmacy.fr.md) · [FA](portfolio/pharmacy.fa.md) |
-| LikeServic Medic | [EN](portfolio/medical-practice.md) · [FR](portfolio/medical-practice.fr.md) · [FA](portfolio/medical-practice.fa.md) |
-| LikeServic Medica | [EN](portfolio/aesthetic-clinic.md) · [FR](portfolio/aesthetic-clinic.fr.md) · [FA](portfolio/aesthetic-clinic.fa.md) |
-| Sense Med | [EN](portfolio/surgery-practice.md) · [FR](portfolio/surgery-practice.fr.md) · [FA](portfolio/surgery-practice.fa.md) |
-| LikeServic Salon | [EN](portfolio/barbershop.md) · [FR](portfolio/barbershop.fr.md) · [FA](portfolio/barbershop.fa.md) |
-| Neo Mobile (phone shop) | [EN](portfolio/mobile-store.md) · [FR](portfolio/mobile-store.fr.md) · [FA](portfolio/mobile-store.fa.md) |
+| Neo Estate (immobilier) | [FR](portfolio/real-estate.fr.md) · [EN](portfolio/real-estate.md) · [FA](portfolio/real-estate.fa.md) |
+| LikeServic Restaurant (Restaurant Karun) | [FR](portfolio/restaurant.fr.md) · [EN](portfolio/restaurant.md) · [FA](portfolio/restaurant.fa.md) |
+| LikeServic Gym Network (GoldGym) | [FR](portfolio/gym-network.fr.md) · [EN](portfolio/gym-network.md) · [FA](portfolio/gym-network.fa.md) |
+| LikeServic Pharmacy | [FR](portfolio/pharmacy.fr.md) · [EN](portfolio/pharmacy.md) · [FA](portfolio/pharmacy.fa.md) |
+| LikeServic Medic | [FR](portfolio/medical-practice.fr.md) · [EN](portfolio/medical-practice.md) · [FA](portfolio/medical-practice.fa.md) |
+| LikeServic Medica | [FR](portfolio/aesthetic-clinic.fr.md) · [EN](portfolio/aesthetic-clinic.md) · [FA](portfolio/aesthetic-clinic.fa.md) |
+| Sense Med | [FR](portfolio/surgery-practice.fr.md) · [EN](portfolio/surgery-practice.md) · [FA](portfolio/surgery-practice.fa.md) |
+| LikeServic Salon | [FR](portfolio/barbershop.fr.md) · [EN](portfolio/barbershop.md) · [FA](portfolio/barbershop.fa.md) |
+| Neo Mobile (téléphonie) | [FR](portfolio/mobile-store.fr.md) · [EN](portfolio/mobile-store.md) · [FA](portfolio/mobile-store.fa.md) |
 
-## Work
+## Réalisations
 
+<a href="https://real.likenic.com/"><img src="images/estate-desktop.webp" width="260" alt="Neo Estate (démo)"></a>
 <a href="https://restaurant-karun.ch/"><img src="images/karun-desktop.webp" width="260" alt="Restaurant Karun"></a>
 <a href="https://goldgym.ch/"><img src="images/goldgym-desktop.webp" width="260" alt="GoldGym"></a>
-<a href="https://pharm.likenic.com/"><img src="images/pharm-desktop.webp" width="260" alt="Pharmacie des Tilleuls (demo)"></a>
-<a href="https://clinic.likenic.com/"><img src="images/clinic-desktop.webp" width="260" alt="Clinique Horizon (demo)"></a>
-<a href="https://beuti.likenic.com/"><img src="images/beauty-desktop.webp" width="260" alt="Clinique Aurore (demo)"></a>
-<a href="https://med.likenic.com/"><img src="images/med-desktop.webp" width="260" alt="Chirurgie Lumen (demo)"></a>
-<a href="https://mob.likenic.com/"><img src="images/mob-desktop.webp" width="260" alt="Neo Mobile phone shop (demo)"></a>
-<a href="https://shop.likenic.com/"><img src="images/store-desktop.webp" width="260" alt="NEO Market demo"></a>
-<a href="https://neo.likenic.com/en/"><img src="images/neolivis-desktop.webp" width="260" alt="NeoLivis"></a>
+<a href="https://pharm.likenic.com/"><img src="images/pharm-desktop.webp" width="260" alt="Pharmacie des Tilleuls (démo)"></a>
+<a href="https://clinic.likenic.com/"><img src="images/clinic-desktop.webp" width="260" alt="Clinique Horizon (démo)"></a>
+<a href="https://beuti.likenic.com/"><img src="images/beauty-desktop.webp" width="260" alt="Clinique Aurore (démo)"></a>
+<a href="https://med.likenic.com/"><img src="images/med-desktop.webp" width="260" alt="Chirurgie Lumen (démo)"></a>
+<a href="https://mob.likenic.com/"><img src="images/mob-desktop.webp" width="260" alt="Neo Mobile (démo)"></a>
+<a href="https://shop.likenic.com/"><img src="images/store-desktop.webp" width="260" alt="NEO Market (démo)"></a>
+<a href="https://neo.likenic.com/"><img src="images/neolivis-desktop.webp" width="260" alt="NeoLivis"></a>
 
-Restaurant Karun and GoldGym are live client sites; the others are demos with fictitious names, addresses and people.
+Restaurant Karun et GoldGym sont des sites clients en ligne ; les autres sont des démos aux noms, adresses et personnes fictifs.
 
-## How I work
-- WordPress + Elementor, one custom plugin per product, child themes, Polylang for languages
-- Up to six languages per site (FR, DE, EN, IT, FA, AR …), right-to-left ready
-- PWA, structured data for Google, Swiss and EU data-protection rules in mind
-- Hosting on European servers (Germany) through LikeNic
+## Ma façon de travailler
+- WordPress + Elementor, une extension sur mesure par produit, thèmes enfants, Polylang pour les langues
+- Jusqu’à six langues par site (FR, DE, EN, IT, FA, AR …), compatibles droite-à-gauche
+- PWA, données structurées pour Google, protection des données suisse (nLPD) et européenne (RGPD) prise en compte
+- Hébergement sur serveurs européens (Allemagne) via LikeNic
+- Travail à distance possible ; contact : [likeservic.com](https://likeservic.com/)
 
 ---
 
-**En français** — Ingénieur informatique et développeur web dans le canton de Vaud. Je crée des thèmes, des extensions et des plateformes WordPress pour cabinets médicaux, pharmacies, restaurants, salles de sport, salons de coiffure et magasins de téléphonie. Les produits sont présentés sur [NeoLivis](https://neo.likenic.com/), et chaque fonctionnalité est montrée en images dans le [portfolio](portfolio/pharmacy.fr.md) ; le code reste privé et chaque installation est faite sur mesure.
+**In English** — IT engineer and web developer in the canton of Vaud, Switzerland. I build WordPress themes, plugins and platforms for real estate, medical practices, pharmacies, restaurants, gyms, salons and shops. Products are on [NeoLivis](https://neo.likenic.com/en/); each feature is shown in the [portfolio](portfolio/real-estate.md). The code stays private; every installation is tailored.
 
 **Auf Deutsch** — Informatik-Ingenieur und Webentwickler im Kanton Waadt. Ich entwickle WordPress-Themes, -Plugins und -Plattformen für Arztpraxen, Apotheken, Restaurants und Fitnessstudios. Die Produkte finden Sie auf [NeoLivis](https://neo.likenic.com/de/); der Code bleibt privat, jede Installation wird individuell eingerichtet.
 
