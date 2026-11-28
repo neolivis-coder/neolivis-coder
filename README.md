@@ -21,6 +21,7 @@ Le code source reste privé. Chaque produit est installé et configuré par nos 
 | [LikeServic Medica](https://neo.likenic.com/product/likeservic-medica/) | Cliniques esthétiques : choix du soin, programmes, demandes de rendez-vous | Démo |
 | [Sense Med](https://neo.likenic.com/product/sense-med/) | Cabinets de chirurgie : spécialités, parcours patient, rendez-vous | Démo |
 | [LikeServic Salon](https://neo.likenic.com/product/likeservic-salon/) | Coiffeurs et barbiers : réservation, file d’attente en direct, liste d’attente, agenda | En développement |
+| [LikeServic Gift](https://gif.likenic.com/) | Boutiques de souvenirs : dix destinations suisses, idée cadeau, coffret sur mesure, articles sourcés, espace pros ; 5 langues dont l’arabe | Démo v2 « Swiss Premium » (préparée pour Euro Mega Mart, Romanel-sur-Morges) |
 | [Neo Mobile](https://mob.likenic.com/) | Boutiques de téléphonie : accessoires par modèle, occasions contrôlées, réparations, reprise ; 5 langues, 4 styles | Démo (premier client : Goldphone, Lausanne) |
 | [NEO Market](https://shop.likenic.com/) | Épicerie persane en ligne, commandes B2B pour restaurants, fret Iran → Suisse | En cours |
 
@@ -38,6 +39,7 @@ Chaque fonctionnalité, une capture à la fois — en français, anglais et pers
 | LikeServic Medica | [FR](portfolio/aesthetic-clinic.fr.md) · [EN](portfolio/aesthetic-clinic.md) · [FA](portfolio/aesthetic-clinic.fa.md) |
 | Sense Med | [FR](portfolio/surgery-practice.fr.md) · [EN](portfolio/surgery-practice.md) · [FA](portfolio/surgery-practice.fa.md) |
 | LikeServic Salon | [FR](portfolio/barbershop.fr.md) · [EN](portfolio/barbershop.md) · [FA](portfolio/barbershop.fa.md) |
+| LikeServic Gift (souvenirs suisses) | [FR](portfolio/gift-shop.fr.md) · [EN](portfolio/gift-shop.md) · [FA](portfolio/gift-shop.fa.md) |
 | Neo Mobile (téléphonie) | [FR](portfolio/mobile-store.fr.md) · [EN](portfolio/mobile-store.md) · [FA](portfolio/mobile-store.fa.md) |
 
 ## Réalisations
@@ -50,10 +52,13 @@ Chaque fonctionnalité, une capture à la fois — en français, anglais et pers
 <a href="https://beuti.likenic.com/"><img src="images/beauty-desktop.webp" width="260" alt="Clinique Aurore (démo)"></a>
 <a href="https://med.likenic.com/"><img src="images/med-desktop.webp" width="260" alt="Chirurgie Lumen (démo)"></a>
 <a href="https://mob.likenic.com/"><img src="images/mob-desktop.webp" width="260" alt="Neo Mobile (démo)"></a>
+<a href="https://gif.likenic.com/"><img src="images/gift-desktop.webp" width="260" alt="LikeServic Gift – Euro Mega Mart (démo)"></a>
 <a href="https://shop.likenic.com/"><img src="images/store-desktop.webp" width="260" alt="NEO Market (démo)"></a>
 <a href="https://neo.likenic.com/"><img src="images/neolivis-desktop.webp" width="260" alt="NeoLivis"></a>
+<a href="https://likeservic.com/"><img src="images/likeservic-desktop.webp" width="260" alt="LikeServic"></a>
+<a href="https://likenic.com/"><img src="images/likenic-desktop.webp" width="260" alt="LikeNic"></a>
 
-Restaurant Karun et GoldGym sont des sites clients en ligne ; les autres sont des démos aux noms, adresses et personnes fictifs.
+Restaurant Karun et GoldGym sont des sites clients en ligne. LikeServic Gift reprend le vrai catalogue d’Euro Mega Mart sur un site de démonstration. LikeServic (services informatiques), LikeNic (hébergement, en préparation) et NeoLivis sont nos propres sites. Les autres sont des démos aux noms, adresses et personnes fictifs.
 
 ## Ma façon de travailler
 - WordPress + Elementor, une extension sur mesure par produit, thèmes enfants, Polylang pour les langues
